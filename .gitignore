@@ -157,6 +157,7 @@ fabric.properties
 
 # kaggle data
 input/
+*_submission.csv
 
 # Idea
 .idea/
